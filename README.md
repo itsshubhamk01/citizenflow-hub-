@@ -3,7 +3,7 @@
 A modern web application for **government scheme management** and **citizen applications**.  
 CitizenFlow Hub empowers citizens to **discover, apply for, and track government schemes** while providing administrators with powerful tools for **review and management**.
 
----
+------
 
 ## 📌 Features
 
@@ -36,6 +36,7 @@ If not, install via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 ### 📥 Installation
 
 Clone the repository:
+
 
 ```sh
 # Step 1: Clone the repository
